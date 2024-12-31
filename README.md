@@ -48,9 +48,9 @@ This is a simple Note API built with Python. It allows users to create, read, up
 
 1. Run the application:
     ```bash
-    flask run
+    fastapi dev
     ```
-2. The API will be available at `http://127.0.0.1:5000`.
+2. The API will be available at `http://127.0.0.1:8000`.
 
 ## Endpoints
 
